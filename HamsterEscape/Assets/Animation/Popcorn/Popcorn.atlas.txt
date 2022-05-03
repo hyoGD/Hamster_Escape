@@ -1,0 +1,62 @@
+
+Popcorn.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Corn 1
+  rotate: false
+  xy: 552, 643
+  size: 131, 112
+  orig: 131, 112
+  offset: 0, 0
+  index: -1
+Corn 2
+  rotate: false
+  xy: 200, 661
+  size: 117, 94
+  orig: 117, 94
+  offset: 0, 0
+  index: -1
+Corn 3
+  rotate: false
+  xy: 685, 638
+  size: 147, 117
+  orig: 147, 117
+  offset: 0, 0
+  index: -1
+Corn 4
+  rotate: true
+  xy: 319, 658
+  size: 97, 120
+  orig: 97, 120
+  offset: 0, 0
+  index: -1
+Corn 5
+  rotate: true
+  xy: 2, 678
+  size: 77, 106
+  orig: 77, 106
+  offset: 0, 0
+  index: -1
+Corn 6
+  rotate: true
+  xy: 110, 676
+  size: 79, 88
+  orig: 79, 88
+  offset: 0, 0
+  index: -1
+Corn 7
+  rotate: false
+  xy: 441, 650
+  size: 109, 105
+  orig: 109, 105
+  offset: 0, 0
+  index: -1
+Popcorn
+  rotate: true
+  xy: 2, 2
+  size: 634, 776
+  orig: 634, 776
+  offset: 0, 0
+  index: -1

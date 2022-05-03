@@ -1,0 +1,1518 @@
+
+Hamster.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Arm-B
+  rotate: true
+  xy: 960, 1057
+  size: 98, 64
+  orig: 98, 64
+  offset: 0, 0
+  index: -1
+Arm-F
+  rotate: false
+  xy: 1700, 971
+  size: 92, 88
+  orig: 92, 88
+  offset: 0, 0
+  index: -1
+B
+  rotate: true
+  xy: 779, 495
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+Base
+  rotate: false
+  xy: 2330, 977
+  size: 264, 288
+  orig: 264, 288
+  offset: 0, 0
+  index: -1
+Belly
+  rotate: true
+  xy: 1424, 2
+  size: 135, 159
+  orig: 135, 159
+  offset: 0, 0
+  index: -1
+Blur
+  rotate: false
+  xy: 599, 1057
+  size: 359, 450
+  orig: 359, 450
+  offset: 0, 0
+  index: -1
+Bóng
+  rotate: false
+  xy: 573, 1509
+  size: 102, 34
+  orig: 102, 34
+  offset: 0, 0
+  index: -1
+Detected/Arm-L
+  rotate: true
+  xy: 1690, 37
+  size: 100, 66
+  orig: 100, 66
+  offset: 0, 0
+  index: -1
+Detected/Arm-R
+  rotate: false
+  xy: 1671, 139
+  size: 88, 65
+  orig: 88, 65
+  offset: 0, 0
+  index: -1
+Detected/Base-Detected
+  rotate: false
+  xy: 2125, 1267
+  size: 265, 288
+  orig: 265, 288
+  offset: 0, 0
+  index: -1
+Detected/Ear-L
+  rotate: true
+  xy: 2895, 415
+  size: 83, 63
+  orig: 83, 63
+  offset: 0, 0
+  index: -1
+Detected/Ear-R
+  rotate: true
+  xy: 2895, 330
+  size: 83, 63
+  orig: 83, 63
+  offset: 0, 0
+  index: -1
+Detected/Shock
+  rotate: true
+  xy: 701, 604
+  size: 362, 155
+  orig: 362, 155
+  offset: 0, 0
+  index: -1
+Detected/Tail
+  rotate: true
+  xy: 384, 1504
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+Ear-B
+  rotate: false
+  xy: 2609, 243
+  size: 83, 57
+  orig: 83, 57
+  offset: 0, 0
+  index: -1
+Ear-F
+  rotate: true
+  xy: 3095, 901
+  size: 84, 58
+  orig: 84, 58
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 390, 485
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+Foot-B
+  rotate: true
+  xy: 2513, 243
+  size: 45, 94
+  orig: 45, 94
+  offset: 0, 0
+  index: -1
+Foot-F
+  rotate: true
+  xy: 2326, 1561
+  size: 66, 80
+  orig: 66, 80
+  offset: 0, 0
+  index: -1
+Hamster/2/Arm-B
+  rotate: true
+  xy: 2871, 790
+  size: 96, 62
+  orig: 96, 62
+  offset: 0, 0
+  index: -1
+Hamster/2/Arm-F
+  rotate: true
+  xy: 2711, 596
+  size: 99, 90
+  orig: 99, 90
+  offset: 0, 0
+  index: -1
+Hamster/2/Arm-L
+  rotate: true
+  xy: 1026, 1057
+  size: 98, 64
+  orig: 98, 64
+  offset: 0, 0
+  index: -1
+Hamster/2/Arm-L2
+  rotate: false
+  xy: 3129, 754
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+Hamster/2/Arm-R
+  rotate: true
+  xy: 1522, 970
+  size: 86, 63
+  orig: 86, 63
+  offset: 0, 0
+  index: -1
+Hamster/2/Arm-R2
+  rotate: true
+  xy: 3096, 1574
+  size: 64, 59
+  orig: 64, 59
+  offset: 0, 0
+  index: -1
+Hamster/2/Arm-Win
+  rotate: true
+  xy: 1924, 520
+  size: 158, 90
+  orig: 158, 90
+  offset: 0, 0
+  index: -1
+Hamster/2/Base
+  rotate: false
+  xy: 1560, 1718
+  size: 285, 328
+  orig: 285, 328
+  offset: 0, 0
+  index: -1
+Hamster/2/Base 3
+  rotate: true
+  xy: 1447, 644
+  size: 324, 323
+  orig: 324, 323
+  offset: 0, 0
+  index: -1
+Hamster/2/Base-Run
+  rotate: false
+  xy: 1277, 1193
+  size: 281, 330
+  orig: 281, 330
+  offset: 0, 0
+  index: -1
+Hamster/2/Blur
+  rotate: false
+  xy: 2, 485
+  size: 331, 481
+  orig: 331, 481
+  offset: 0, 0
+  index: -1
+Hamster/2/Chew
+  rotate: false
+  xy: 1219, 1058
+  size: 93, 97
+  orig: 93, 97
+  offset: 0, 0
+  index: -1
+Hamster/2/Ear L
+  rotate: true
+  xy: 2959, 531
+  size: 81, 61
+  orig: 81, 61
+  offset: 0, 0
+  index: -1
+Hamster/2/Ear R
+  rotate: true
+  xy: 3014, 630
+  size: 81, 61
+  orig: 81, 61
+  offset: 0, 0
+  index: -1
+Hamster/2/Ear-B
+  rotate: false
+  xy: 466, 969
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+Hamster/2/Ear-F
+  rotate: false
+  xy: 320, 968
+  size: 71, 69
+  orig: 71, 69
+  offset: 0, 0
+  index: -1
+Hamster/2/Glasses
+  rotate: true
+  xy: 1092, 1057
+  size: 98, 24
+  orig: 98, 24
+  offset: 0, 0
+  index: -1
+Hamster/2/Glasses2
+  rotate: false
+  xy: 1560, 1199
+  size: 60, 24
+  orig: 60, 24
+  offset: 0, 0
+  index: -1
+Hamster/2/Glasses3
+  rotate: true
+  xy: 1016, 4
+  size: 121, 90
+  orig: 121, 90
+  offset: 0, 0
+  index: -1
+Hamster/2/Leg-B
+  rotate: true
+  xy: 2294, 553
+  size: 129, 103
+  orig: 129, 103
+  offset: 0, 0
+  index: -1
+Hamster/2/Leg-F
+  rotate: true
+  xy: 1114, 492
+  size: 118, 96
+  orig: 118, 96
+  offset: 0, 0
+  index: -1
+Hamster/2/Spin
+  rotate: true
+  xy: 1037, 135
+  size: 353, 315
+  orig: 353, 315
+  offset: 0, 0
+  index: -1
+Hamster/3/Arm-B
+  rotate: true
+  xy: 2935, 790
+  size: 96, 62
+  orig: 96, 62
+  offset: 0, 0
+  index: -1
+Hamster/3/Arm-F
+  rotate: false
+  xy: 970, 969
+  size: 90, 86
+  orig: 90, 86
+  offset: 0, 0
+  index: -1
+Hamster/3/Arm-L
+  rotate: false
+  xy: 3145, 589
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+Hamster/3/Arm-L2
+  rotate: false
+  xy: 3157, 1574
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+Hamster/3/Arm-R
+  rotate: true
+  xy: 2960, 388
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+Hamster/3/Arm-R2
+  rotate: true
+  xy: 2871, 702
+  size: 86, 63
+  orig: 86, 63
+  offset: 0, 0
+  index: -1
+Hamster/3/Base
+  rotate: false
+  xy: 1772, 680
+  size: 281, 289
+  orig: 281, 289
+  offset: 0, 0
+  index: -1
+Hamster/3/Base 2
+  rotate: false
+  xy: 2391, 1760
+  size: 269, 286
+  orig: 269, 286
+  offset: 0, 0
+  index: -1
+Hamster/3/Base 3
+  rotate: true
+  xy: 1560, 1225
+  size: 299, 286
+  orig: 299, 286
+  offset: 0, 0
+  index: -1
+Hamster/3/Blur
+  rotate: false
+  xy: 297, 1545
+  size: 310, 501
+  orig: 310, 501
+  offset: 0, 0
+  index: -1
+Hamster/3/Chew
+  rotate: false
+  xy: 2803, 598
+  size: 93, 97
+  orig: 93, 97
+  offset: 0, 0
+  index: -1
+Hamster/3/Ear-B
+  rotate: false
+  xy: 539, 969
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+Hamster/3/Ear-F
+  rotate: false
+  xy: 393, 968
+  size: 71, 69
+  orig: 71, 69
+  offset: 0, 0
+  index: -1
+Hamster/3/Ear-L
+  rotate: true
+  xy: 3066, 728
+  size: 81, 61
+  orig: 81, 61
+  offset: 0, 0
+  index: -1
+Hamster/3/Ear-R
+  rotate: true
+  xy: 3121, 818
+  size: 81, 61
+  orig: 81, 61
+  offset: 0, 0
+  index: -1
+Hamster/3/Foot-B
+  rotate: true
+  xy: 2776, 1565
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+Hamster/3/Foot-F
+  rotate: true
+  xy: 2856, 1565
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+Hamster/3/Hands
+  rotate: true
+  xy: 2016, 520
+  size: 158, 90
+  orig: 158, 90
+  offset: 0, 0
+  index: -1
+Hamster/3/Leg-B
+  rotate: true
+  xy: 2014, 1624
+  size: 129, 103
+  orig: 129, 103
+  offset: 0, 0
+  index: -1
+Hamster/3/Leg-F
+  rotate: true
+  xy: 1212, 494
+  size: 118, 96
+  orig: 118, 96
+  offset: 0, 0
+  index: -1
+Hamster/3/Misc 1
+  rotate: true
+  xy: 1664, 1526
+  size: 190, 71
+  orig: 190, 71
+  offset: 0, 0
+  index: -1
+Hamster/3/Misc 2
+  rotate: true
+  xy: 1737, 1526
+  size: 190, 71
+  orig: 190, 71
+  offset: 0, 0
+  index: -1
+Hamster/3/Spin
+  rotate: true
+  xy: 609, 1693
+  size: 353, 315
+  orig: 353, 315
+  offset: 0, 0
+  index: -1
+Hamster/4/Arm-B
+  rotate: true
+  xy: 2966, 889
+  size: 96, 62
+  orig: 96, 62
+  offset: 0, 0
+  index: -1
+Hamster/4/Arm-F
+  rotate: false
+  xy: 1062, 969
+  size: 90, 86
+  orig: 90, 86
+  offset: 0, 0
+  index: -1
+Hamster/4/Arm-L
+  rotate: false
+  xy: 3153, 695
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+Hamster/4/Arm-L2
+  rotate: true
+  xy: 2694, 243
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+Hamster/4/Arm-R
+  rotate: false
+  xy: 2960, 330
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+Hamster/4/Arm-R2
+  rotate: true
+  xy: 2936, 702
+  size: 86, 63
+  orig: 86, 63
+  offset: 0, 0
+  index: -1
+Hamster/4/Base
+  rotate: false
+  xy: 2927, 1760
+  size: 262, 286
+  orig: 262, 286
+  offset: 0, 0
+  index: -1
+Hamster/4/Base 2
+  rotate: false
+  xy: 1959, 229
+  size: 275, 289
+  orig: 275, 289
+  offset: 0, 0
+  index: -1
+Hamster/4/Base 3
+  rotate: false
+  xy: 858, 612
+  size: 270, 354
+  orig: 270, 354
+  offset: 0, 0
+  index: -1
+Hamster/4/Blur
+  rotate: false
+  xy: 2, 968
+  size: 316, 530
+  orig: 316, 530
+  offset: 0, 0
+  index: -1
+Hamster/4/Breath
+  rotate: false
+  xy: 1810, 1557
+  size: 202, 159
+  orig: 202, 159
+  offset: 0, 0
+  index: -1
+Hamster/4/Foot-B
+  rotate: true
+  xy: 2936, 1565
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+Hamster/4/Foot-F
+  rotate: true
+  xy: 3016, 1574
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+Hamster/4/Hands
+  rotate: true
+  xy: 2108, 524
+  size: 158, 90
+  orig: 158, 90
+  offset: 0, 0
+  index: -1
+Hamster/4/Leg-B
+  rotate: true
+  xy: 2119, 1629
+  size: 129, 103
+  orig: 129, 103
+  offset: 0, 0
+  index: -1
+Hamster/4/Leg-F
+  rotate: true
+  xy: 1310, 494
+  size: 118, 96
+  orig: 118, 96
+  offset: 0, 0
+  index: -1
+Hamster/4/Mask
+  rotate: false
+  xy: 677, 1509
+  size: 85, 182
+  orig: 85, 182
+  offset: 0, 0
+  index: -1
+Hamster/4/Mask 2
+  rotate: false
+  xy: 1887, 9
+  size: 242, 195
+  orig: 242, 195
+  offset: 0, 0
+  index: -1
+Hamster/4/Misc
+  rotate: false
+  xy: 2571, 302
+  size: 258, 258
+  orig: 258, 258
+  offset: 0, 0
+  index: -1
+Hamster/4/Misc 2
+  rotate: false
+  xy: 2864, 1631
+  size: 85, 127
+  orig: 85, 127
+  offset: 0, 0
+  index: -1
+Hamster/4/Misc 3
+  rotate: false
+  xy: 1799, 971
+  size: 252, 252
+  orig: 252, 252
+  offset: 0, 0
+  index: -1
+Hamster/4/Spin
+  rotate: true
+  xy: 926, 1693
+  size: 353, 315
+  orig: 353, 315
+  offset: 0, 0
+  index: -1
+Hamster/5/Arm-B
+  rotate: true
+  xy: 2831, 500
+  size: 96, 62
+  orig: 96, 62
+  offset: 0, 0
+  index: -1
+Hamster/5/Arm-F
+  rotate: false
+  xy: 1154, 970
+  size: 90, 86
+  orig: 90, 86
+  offset: 0, 0
+  index: -1
+Hamster/5/Arm-L
+  rotate: false
+  xy: 2826, 243
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+Hamster/5/Arm-L2
+  rotate: false
+  xy: 2408, 1563
+  size: 90, 64
+  orig: 90, 64
+  offset: 0, 0
+  index: -1
+Hamster/5/Arm-R
+  rotate: true
+  xy: 3036, 488
+  size: 59, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1
+Hamster/5/Arm-R2
+  rotate: true
+  xy: 2999, 801
+  size: 86, 63
+  orig: 86, 63
+  offset: 0, 0
+  index: -1
+Hamster/5/Base
+  rotate: false
+  xy: 2607, 697
+  size: 262, 286
+  orig: 262, 286
+  offset: 0, 0
+  index: -1
+Hamster/5/Base 2
+  rotate: false
+  xy: 1848, 1266
+  size: 275, 289
+  orig: 275, 289
+  offset: 0, 0
+  index: -1
+Hamster/5/Base 3
+  rotate: false
+  xy: 2392, 1273
+  size: 263, 286
+  orig: 263, 286
+  offset: 0, 0
+  index: -1
+Hamster/5/Blur
+  rotate: false
+  xy: 2, 10
+  size: 287, 473
+  orig: 287, 473
+  offset: 0, 0
+  index: -1
+Hamster/5/Hat
+  rotate: false
+  xy: 2644, 1631
+  size: 218, 127
+  orig: 218, 127
+  offset: 0, 0
+  index: -1
+Hamster/5/Leg-B
+  rotate: true
+  xy: 2224, 1629
+  size: 129, 103
+  orig: 129, 103
+  offset: 0, 0
+  index: -1
+Hamster/5/Leg-F
+  rotate: true
+  xy: 1408, 494
+  size: 118, 96
+  orig: 118, 96
+  offset: 0, 0
+  index: -1
+Hamster/5/Mask
+  rotate: true
+  xy: 2457, 3
+  size: 237, 92
+  orig: 237, 92
+  offset: 0, 0
+  index: -1
+Hamster/5/Mask 2
+  rotate: true
+  xy: 2131, 3
+  size: 224, 77
+  orig: 224, 77
+  offset: 0, 0
+  index: -1
+Hamster/5/Mask 3
+  rotate: false
+  xy: 612, 968
+  size: 218, 87
+  orig: 218, 87
+  offset: 0, 0
+  index: -1
+Hamster/5/Spin
+  rotate: true
+  xy: 960, 1157
+  size: 353, 315
+  orig: 353, 315
+  offset: 0, 0
+  index: -1
+Hamster/6/Arm-B
+  rotate: true
+  xy: 2831, 402
+  size: 96, 62
+  orig: 96, 62
+  offset: 0, 0
+  index: -1
+Hamster/6/Arm-F
+  rotate: false
+  xy: 1246, 970
+  size: 90, 86
+  orig: 90, 86
+  offset: 0, 0
+  index: -1
+Hamster/6/Arm-L
+  rotate: false
+  xy: 3022, 330
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+Hamster/6/Arm-L2
+  rotate: false
+  xy: 2500, 1563
+  size: 90, 64
+  orig: 90, 64
+  offset: 0, 0
+  index: -1
+Hamster/6/Arm-R
+  rotate: true
+  xy: 3087, 587
+  size: 59, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1
+Hamster/6/Arm-R2
+  rotate: true
+  xy: 3030, 899
+  size: 86, 63
+  orig: 86, 63
+  offset: 0, 0
+  index: -1
+Hamster/6/Base
+  rotate: false
+  xy: 2053, 975
+  size: 275, 289
+  orig: 275, 289
+  offset: 0, 0
+  index: -1
+Hamster/6/Base 2
+  rotate: false
+  xy: 2861, 987
+  size: 262, 286
+  orig: 262, 286
+  offset: 0, 0
+  index: -1
+Hamster/6/Base 3
+  rotate: false
+  xy: 2662, 1760
+  size: 263, 286
+  orig: 263, 286
+  offset: 0, 0
+  index: -1
+Hamster/6/Blur
+  rotate: false
+  xy: 2, 1500
+  size: 293, 546
+  orig: 293, 546
+  offset: 0, 0
+  index: -1
+Hamster/6/Hat
+  rotate: false
+  xy: 798, 490
+  size: 214, 112
+  orig: 214, 112
+  offset: 0, 0
+  index: -1
+Hamster/6/Leg-B
+  rotate: true
+  xy: 2329, 1629
+  size: 129, 103
+  orig: 129, 103
+  offset: 0, 0
+  index: -1
+Hamster/6/Leg-F
+  rotate: true
+  xy: 2951, 1640
+  size: 118, 96
+  orig: 118, 96
+  offset: 0, 0
+  index: -1
+Hamster/6/Mask
+  rotate: false
+  xy: 1314, 1058
+  size: 229, 133
+  orig: 229, 133
+  offset: 0, 0
+  index: -1
+Hamster/6/Mask 2
+  rotate: false
+  xy: 776, 2
+  size: 238, 123
+  orig: 238, 123
+  offset: 0, 0
+  index: -1
+Hamster/6/Spin
+  rotate: true
+  xy: 1130, 614
+  size: 353, 315
+  orig: 353, 315
+  offset: 0, 0
+  index: -1
+Hamster/7/Arm-B
+  rotate: true
+  xy: 2831, 304
+  size: 96, 62
+  orig: 96, 62
+  offset: 0, 0
+  index: -1
+Hamster/7/Arm-F
+  rotate: false
+  xy: 1338, 970
+  size: 90, 86
+  orig: 90, 86
+  offset: 0, 0
+  index: -1
+Hamster/7/Arm-L
+  rotate: true
+  xy: 3078, 428
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+Hamster/7/Arm-L2
+  rotate: false
+  xy: 2592, 1563
+  size: 90, 64
+  orig: 90, 64
+  offset: 0, 0
+  index: -1
+Hamster/7/Arm-R
+  rotate: true
+  xy: 2951, 184
+  size: 59, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1
+Hamster/7/Arm-R2
+  rotate: true
+  xy: 2949, 614
+  size: 86, 63
+  orig: 86, 63
+  offset: 0, 0
+  index: -1
+Hamster/7/Base
+  rotate: false
+  xy: 2922, 1277
+  size: 262, 286
+  orig: 262, 286
+  offset: 0, 0
+  index: -1
+Hamster/7/Base 2
+  rotate: false
+  xy: 2055, 684
+  size: 275, 289
+  orig: 275, 289
+  offset: 0, 0
+  index: -1
+Hamster/7/Base 3
+  rotate: false
+  xy: 2596, 985
+  size: 263, 286
+  orig: 263, 286
+  offset: 0, 0
+  index: -1
+Hamster/7/Blur
+  rotate: false
+  xy: 291, 11
+  size: 265, 472
+  orig: 265, 472
+  offset: 0, 0
+  index: -1
+Hamster/7/Hands
+  rotate: true
+  xy: 1506, 497
+  size: 145, 90
+  orig: 145, 90
+  offset: 0, 0
+  index: -1
+Hamster/7/Hat
+  rotate: false
+  xy: 558, 4
+  size: 216, 115
+  orig: 216, 115
+  offset: 0, 0
+  index: -1
+Hamster/7/Leg-B
+  rotate: true
+  xy: 2434, 1629
+  size: 129, 103
+  orig: 129, 103
+  offset: 0, 0
+  index: -1
+Hamster/7/Leg-F
+  rotate: true
+  xy: 3049, 1640
+  size: 118, 96
+  orig: 118, 96
+  offset: 0, 0
+  index: -1
+Hamster/8/Arm-B
+  rotate: true
+  xy: 2895, 500
+  size: 96, 62
+  orig: 96, 62
+  offset: 0, 0
+  index: -1
+Hamster/8/Arm-F
+  rotate: false
+  xy: 1430, 970
+  size: 90, 86
+  orig: 90, 86
+  offset: 0, 0
+  index: -1
+Hamster/8/Arm-L
+  rotate: true
+  xy: 3094, 527
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+Hamster/8/Arm-L2
+  rotate: false
+  xy: 2684, 1565
+  size: 90, 64
+  orig: 90, 64
+  offset: 0, 0
+  index: -1
+Hamster/8/Arm-R
+  rotate: true
+  xy: 3005, 269
+  size: 59, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1
+Hamster/8/Arm-R2
+  rotate: true
+  xy: 3001, 713
+  size: 86, 63
+  orig: 86, 63
+  offset: 0, 0
+  index: -1
+Hamster/8/Base
+  rotate: false
+  xy: 3191, 1760
+  size: 262, 286
+  orig: 262, 286
+  offset: 0, 0
+  index: -1
+Hamster/8/Base 2
+  rotate: false
+  xy: 2236, 242
+  size: 275, 289
+  orig: 275, 289
+  offset: 0, 0
+  index: -1
+Hamster/8/Base 3
+  rotate: false
+  xy: 2657, 1275
+  size: 263, 286
+  orig: 263, 286
+  offset: 0, 0
+  index: -1
+Hamster/8/Blur
+  rotate: false
+  xy: 320, 1039
+  size: 277, 460
+  orig: 277, 460
+  offset: 0, 0
+  index: -1
+Hamster/8/Hands
+  rotate: true
+  xy: 1598, 497
+  size: 145, 90
+  orig: 145, 90
+  offset: 0, 0
+  index: -1
+Hamster/8/Hat
+  rotate: false
+  xy: 1407, 1526
+  size: 255, 165
+  orig: 255, 165
+  offset: 0, 0
+  index: -1
+Hamster/8/Leg-B
+  rotate: true
+  xy: 2539, 1629
+  size: 129, 103
+  orig: 129, 103
+  offset: 0, 0
+  index: -1
+Hamster/8/Leg-F
+  rotate: true
+  xy: 3147, 1640
+  size: 118, 96
+  orig: 118, 96
+  offset: 0, 0
+  index: -1
+Hamster/8/Spin
+  rotate: true
+  xy: 1354, 139
+  size: 353, 315
+  orig: 353, 315
+  offset: 0, 0
+  index: -1
+Hamster/9/1
+  rotate: false
+  xy: 2210, 7
+  size: 245, 220
+  orig: 245, 220
+  offset: 0, 0
+  index: -1
+Hamster/9/2
+  rotate: false
+  xy: 1242, 1525
+  size: 163, 166
+  orig: 163, 166
+  offset: 0, 0
+  index: -1
+Hamster/9/3
+  rotate: true
+  xy: 1215, 3
+  size: 130, 207
+  orig: 130, 207
+  offset: 0, 0
+  index: -1
+Hamster/9/4
+  rotate: false
+  xy: 764, 1512
+  size: 240, 179
+  orig: 240, 179
+  offset: 0, 0
+  index: -1
+Hamster/9/Arm-B
+  rotate: true
+  xy: 2647, 595
+  size: 100, 62
+  orig: 100, 62
+  offset: 0, 0
+  index: -1
+Hamster/9/Arm-F
+  rotate: false
+  xy: 701, 516
+  size: 95, 86
+  orig: 95, 86
+  offset: 0, 0
+  index: -1
+Hamster/9/Arm-L
+  rotate: false
+  xy: 2760, 243
+  size: 64, 57
+  orig: 64, 57
+  offset: 0, 0
+  index: -1
+Hamster/9/Arm-L2
+  rotate: true
+  xy: 609, 1586
+  size: 105, 66
+  orig: 105, 66
+  offset: 0, 0
+  index: -1
+Hamster/9/Arm-R
+  rotate: true
+  xy: 2093, 1557
+  size: 65, 56
+  orig: 65, 56
+  offset: 0, 0
+  index: -1
+Hamster/9/Arm-R2
+  rotate: false
+  xy: 2231, 1561
+  size: 93, 66
+  orig: 93, 66
+  offset: 0, 0
+  index: -1
+Hamster/9/Base
+  rotate: false
+  xy: 2332, 689
+  size: 273, 286
+  orig: 273, 286
+  offset: 0, 0
+  index: -1
+Hamster/9/Base2
+  rotate: false
+  xy: 1671, 206
+  size: 286, 289
+  orig: 286, 289
+  offset: 0, 0
+  index: -1
+Hamster/9/Base3
+  rotate: false
+  xy: 2117, 1760
+  size: 272, 286
+  orig: 272, 286
+  offset: 0, 0
+  index: -1
+Hamster/9/Belly
+  rotate: false
+  xy: 1782, 519
+  size: 140, 159
+  orig: 140, 159
+  offset: 0, 0
+  index: -1
+Hamster/9/Blur
+  rotate: false
+  xy: 335, 516
+  size: 364, 450
+  orig: 364, 450
+  offset: 0, 0
+  index: -1
+Hamster/9/Chew
+  rotate: false
+  xy: 1118, 1058
+  size: 99, 97
+  orig: 99, 97
+  offset: 0, 0
+  index: -1
+Hamster/9/Ear-B
+  rotate: true
+  xy: 3064, 811
+  size: 86, 55
+  orig: 86, 55
+  offset: 0, 0
+  index: -1
+Hamster/9/Ear-F
+  rotate: true
+  xy: 1587, 970
+  size: 89, 56
+  orig: 89, 56
+  offset: 0, 0
+  index: -1
+Hamster/9/Ear-L
+  rotate: true
+  xy: 832, 968
+  size: 87, 67
+  orig: 87, 67
+  offset: 0, 0
+  index: -1
+Hamster/9/Ear-R
+  rotate: true
+  xy: 901, 968
+  size: 87, 67
+  orig: 87, 67
+  offset: 0, 0
+  index: -1
+Hamster/9/Foot-B
+  rotate: false
+  xy: 2898, 608
+  size: 49, 92
+  orig: 49, 92
+  offset: 0, 0
+  index: -1
+Hamster/9/Foot-F
+  rotate: true
+  xy: 2151, 1557
+  size: 70, 78
+  orig: 70, 78
+  offset: 0, 0
+  index: -1
+Hamster/9/Hands
+  rotate: true
+  xy: 2200, 533
+  size: 149, 92
+  orig: 149, 92
+  offset: 0, 0
+  index: -1
+Hamster/9/Leg-B
+  rotate: true
+  xy: 1585, 2
+  size: 135, 103
+  orig: 135, 103
+  offset: 0, 0
+  index: -1
+Hamster/9/Leg-F
+  rotate: true
+  xy: 1545, 1061
+  size: 130, 96
+  orig: 130, 96
+  offset: 0, 0
+  index: -1
+Hamster/9/Mouth1
+  rotate: true
+  xy: 546, 1507
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+Hamster/9/Mouth2
+  rotate: true
+  xy: 754, 490
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+Hamster/9/Mouth3
+  rotate: false
+  xy: 609, 1551
+  size: 52, 33
+  orig: 52, 33
+  offset: 0, 0
+  index: -1
+Hamster/9/Mouth4
+  rotate: false
+  xy: 503, 488
+  size: 54, 26
+  orig: 54, 26
+  offset: 0, 0
+  index: -1
+Hamster/9/Mouth5
+  rotate: false
+  xy: 646, 489
+  size: 54, 25
+  orig: 54, 25
+  offset: 0, 0
+  index: -1
+Hamster/9/Panting
+  rotate: true
+  xy: 1645, 970
+  size: 89, 53
+  orig: 89, 53
+  offset: 0, 0
+  index: -1
+Hamster/9/Shock
+  rotate: true
+  xy: 558, 121
+  size: 365, 160
+  orig: 365, 160
+  offset: 0, 0
+  index: -1
+Hamster/9/Spin
+  rotate: true
+  xy: 720, 127
+  size: 360, 315
+  orig: 360, 315
+  offset: 0, 0
+  index: -1
+Hamster/9/Sweat-1
+  rotate: true
+  xy: 2014, 1557
+  size: 65, 77
+  orig: 65, 77
+  offset: 0, 0
+  index: -1
+Hamster/9/Sweat-2
+  rotate: true
+  xy: 2960, 450
+  size: 79, 74
+  orig: 79, 74
+  offset: 0, 0
+  index: -1
+Hamster/9/Tail
+  rotate: true
+  xy: 297, 1501
+  size: 42, 33
+  orig: 42, 33
+  offset: 0, 0
+  index: -1
+Hamster/9/e
+  rotate: true
+  xy: 1277, 1159
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+Hamster/9/eyes
+  rotate: false
+  xy: 1847, 1719
+  size: 91, 34
+  orig: 91, 34
+  offset: 0, 0
+  index: -1
+Hamster/9/mouth
+  rotate: false
+  xy: 335, 485
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1
+Hiding/Arm-L
+  rotate: false
+  xy: 2886, 243
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+Hiding/Arm-R
+  rotate: true
+  xy: 3018, 389
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+Hiding/Base
+  rotate: false
+  xy: 1847, 1755
+  size: 268, 291
+  orig: 268, 291
+  offset: 0, 0
+  index: -1
+Hiding/Eyes
+  rotate: false
+  xy: 420, 1507
+  size: 86, 36
+  orig: 86, 36
+  offset: 0, 0
+  index: -1
+Hiding/Mouth1
+  rotate: false
+  xy: 611, 488
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+Hiding/Mouth2
+  rotate: true
+  xy: 1560, 1695
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+Hiding/Nose
+  rotate: true
+  xy: 425, 485
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+Hiding/Panting
+  rotate: true
+  xy: 2948, 245
+  size: 83, 55
+  orig: 83, 55
+  offset: 0, 0
+  index: -1
+Leg-B
+  rotate: true
+  xy: 1108, 2
+  size: 131, 105
+  orig: 131, 105
+  offset: 0, 0
+  index: -1
+Leg-F
+  rotate: true
+  xy: 1014, 490
+  size: 120, 98
+  orig: 120, 98
+  offset: 0, 0
+  index: -1
+Mouse
+  rotate: false
+  xy: 450, 487
+  size: 51, 27
+  orig: 51, 27
+  offset: 0, 0
+  index: -1
+Nose
+  rotate: false
+  xy: 508, 1507
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+Spin 1
+  rotate: true
+  xy: 1243, 1693
+  size: 353, 315
+  orig: 353, 315
+  offset: 0, 0
+  index: -1
+Sweat-1
+  rotate: false
+  xy: 3022, 549
+  size: 63, 79
+  orig: 63, 79
+  offset: 0, 0
+  index: -1
+Sweat-2
+  rotate: true
+  xy: 3077, 648
+  size: 78, 74
+  orig: 78, 74
+  offset: 0, 0
+  index: -1
+Whisker
+  rotate: true
+  xy: 332, 1504
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+Win/Arm
+  rotate: true
+  xy: 1690, 497
+  size: 145, 90
+  orig: 145, 90
+  offset: 0, 0
+  index: -1
+Win/Chew
+  rotate: false
+  xy: 2871, 888
+  size: 93, 97
+  orig: 93, 97
+  offset: 0, 0
+  index: -1
+Win/Jump
+  rotate: false
+  xy: 2399, 562
+  size: 246, 125
+  orig: 246, 125
+  offset: 0, 0
+  index: -1
+Win/Mouth1
+  rotate: false
+  xy: 1940, 1720
+  size: 48, 33
+  orig: 48, 33
+  offset: 0, 0
+  index: -1
+Win/Mouth2
+  rotate: false
+  xy: 559, 488
+  size: 50, 26
+  orig: 50, 26
+  offset: 0, 0
+  index: -1
+Win/Mouth3
+  rotate: false
+  xy: 702, 489
+  size: 50, 25
+  orig: 50, 25
+  offset: 0, 0
+  index: -1
+Win/Smoke 1
+  rotate: true
+  xy: 2513, 290
+  size: 270, 56
+  orig: 270, 56
+  offset: 0, 0
+  index: -1
+Win/Smoke 2
+  rotate: true
+  xy: 2551, 2
+  size: 239, 75
+  orig: 239, 75
+  offset: 0, 0
+  index: -1
+Win/Smoke 3
+  rotate: true
+  xy: 2628, 14
+  size: 227, 77
+  orig: 227, 77
+  offset: 0, 0
+  index: -1
+Win/Win
+  rotate: false
+  xy: 2707, 24
+  size: 242, 217
+  orig: 242, 217
+  offset: 0, 0
+  index: -1
+Win/Win2
+  rotate: false
+  xy: 1643, 1061
+  size: 154, 162
+  orig: 154, 162
+  offset: 0, 0
+  index: -1
+Win/Win3
+  rotate: false
+  xy: 1761, 3
+  size: 124, 201
+  orig: 124, 201
+  offset: 0, 0
+  index: -1
+Win/Win4
+  rotate: false
+  xy: 1006, 1518
+  size: 234, 173
+  orig: 234, 173
+  offset: 0, 0
+  index: -1

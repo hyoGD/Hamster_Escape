@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30966799f72af0d44995f1b514c3f59a, type: 3}
+  m_Name: DataGame
+  m_EditorClassIdentifier: 
+  question:
+  - level: Level 1
+    id: 1
+    soluongchuoi: 01000000
+    colorr: 1
+    Obj: 3
+  - level: Level 2
+    id: 2
+    soluongchuoi: 0100000002000000
+    colorr: 1
+    Obj: 4
+  - level: Level 3
+    id: 3
+    soluongchuoi: 020000000300000002000000
+    colorr: 0
+    Obj: 5
+  - level: Level 4
+    id: 4
+    soluongchuoi: 01000000020000000300000004000000
+    colorr: 0
+    Obj: 6
+  - level: Level 5
+    id: 5
+    soluongchuoi: 030000000300000004000000
+    colorr: 0
+    Obj: 5
+  - level: Level 6
+    id: 6
+    soluongchuoi: 0200000004000000
+    colorr: 0
+    Obj: 4
+  - level: Level 7
+    id: 7
+    soluongchuoi: 020000000300000004000000
+    colorr: 0
+    Obj: 5
+  - level: Level 8
+    id: 8
+    soluongchuoi: 02000000030000000400000005000000
+    colorr: 0
+    Obj: 6
+  - level: Level 9
+    id: 9
+    soluongchuoi: 010000000300000005000000
+    colorr: 0
+    Obj: 5
+  - level: Level 10
+    id: 10
+    soluongchuoi: 0100000002000000030000000400000005000000
+    colorr: 0
+    Obj: 7
+  - level: Level 11
+    id: 11
+    soluongchuoi: 01000000
+    colorr: 0
+    Obj: 3
+  - level: Level 12
+    id: 12
+    soluongchuoi: 010000000200000003000000
+    colorr: 0
+    Obj: 5
+  - level: Level 13
+    id: 13
+    soluongchuoi: 02000000020000000300000004000000
+    colorr: 0
+    Obj: 6
+  - level: Level 14
+    id: 14
+    soluongchuoi: 020000000300000004000000
+    colorr: 0
+    Obj: 5
+  - level: Level 15
+    id: 15
+    soluongchuoi: 0200000005000000
+    colorr: 0
+    Obj: 4
+  - level: Level 16
+    id: 16
+    soluongchuoi: 030000000400000005000000
+    colorr: 0
+    Obj: 5
+  - level: Level 17
+    id: 17
+    soluongchuoi: 02000000030000000400000005000000
+    colorr: 0
+    Obj: 6
+  - level: Level 18
+    id: 18
+    soluongchuoi: 03000000030000000400000004000000
+    colorr: 0
+    Obj: 6
+  - level: Level 19
+    id: 19
+    soluongchuoi: 0400000005000000
+    colorr: 0
+    Obj: 4
+  - level: Level 20
+    id: 20
+    soluongchuoi: 0200000003000000040000000500000005000000
+    colorr: 0
+    Obj: 7
+  chainArr: 000000000200000001000000020000000100000000000000
+  itemDeco:
+  - {fileID: 2355465901115658662, guid: 7bdfbe734df9c9646b86b98e50e2e2b8, type: 3}
+  - {fileID: 6266961896718055590, guid: 150c3323b0f4d854695a49f81b8caf49, type: 3}
+  - {fileID: 4645728031238589675, guid: 25d0ebcbe448b67409c3653a1bda21be, type: 3}
+  - {fileID: 4899765456943999809, guid: 4bc8469d567bafc4485db92e1246e2db, type: 3}
+  - {fileID: 168155990075997057, guid: 5b371b30912b63145b7d11037056ed64, type: 3}
+  chain_Normal:
+  - {fileID: 21300000, guid: 938f7b5524d962945970c141b0cb14dc, type: 3}
+  - {fileID: 21300000, guid: 58973460f4607254ba64c7f4a34267a8, type: 3}
+  - {fileID: 21300000, guid: b09ad8dbc55c0bc48947be4f492c867a, type: 3}
+  ChainColor:
+  - {fileID: 21300000, guid: 3da61d3fdc86e6c40acf213772f99b69, type: 3}
+  - {fileID: 21300000, guid: 0c6479133b4b0a2499525b05723b74f7, type: 3}
+  - {fileID: 21300000, guid: e704cb6fbf14dfc4eb289219877717a8, type: 3}
+  - {fileID: 21300000, guid: 2c771d9be7ee92d449fd1c5372f3d662, type: 3}
+  - {fileID: 21300000, guid: 8a487e62f2ecd0d448585b391823da46, type: 3}
+  start: {fileID: 7831111731223982033, guid: a873b121bc6320842b55a752912f0fa9, type: 3}
+  Finish: {fileID: 8160275770408296087, guid: df7f2a59f79f01a4ea1f6f1a9d28bc0a, type: 3}
+  Obj:
+  - {fileID: 8432411622047598174, guid: fbaa7bbd3cfae0b4ab2e1d2f153e1b10, type: 3}
+  - {fileID: 7247166964499071287, guid: 3650df50457314f4ab0280cc851071f9, type: 3}
+  - {fileID: 3322093509109259189, guid: 87d244161228df64d97aa9a8dff718fa, type: 3}
+  - {fileID: 4857081075979863997, guid: 84b1c343cfe1cbe4d97bb56416944928, type: 3}
+  - {fileID: 6462692973976307588, guid: ac6f1bab060e03a498efbd3bd266c975, type: 3}
+  - {fileID: 610756239130918116, guid: b590bcba2b6895140bf911e45b6a8773, type: 3}
